@@ -1,7 +1,10 @@
 # Can-Money-Buy-Happiness-
 This repository contains the Jupyter Notebook **`cmbh_final.ipynb`**, which explores the relationship between **income, wealth, and happiness** using data analysis and machine learning techniques.  
 The project demonstrates a full data science workflow including preprocessing, visualization, and predictive modeling to analyze whether money truly impacts happiness.
-![img](https://github.com/ipranaysatija/Can-Money-Buy-Happiness-/blob/main/images/money%20%20vs%20happiness.png?raw=true)
+<p align="center">
+  <img src="https://github.com/ipranaysatija/Can-Money-Buy-Happiness-/blob/main/images/money%20%20vs%20happiness.png?raw=true" alt="Centered Image" width="500"/>
+</p>
+
 
 ## 📌 Project Overview
 
